@@ -8,6 +8,6 @@ ipympl
 psutil
 jupyter
 untangle
-sklearn
+scikit-learn
 ipywidgets
 read_roi
